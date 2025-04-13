@@ -121,7 +121,7 @@ export const roadmap = [
     id: "3",
     title: "Integration with APIs",
     text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
-    date: "May 2023",
+    date:  "18 March 2025",
     status: "progress",
     imageUrl: roadmap4,
   },
@@ -305,13 +305,13 @@ export const socials = [
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "#",
+    url: "https://x.com/Ahmed_Osman8755",
   },
   {
     id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "#",
+    url: "https://www.instagram.com/___ahmed__osman___/",
   },
   {
     id: "3",
@@ -323,6 +323,6 @@ export const socials = [
     id: "4",
     title: "Facebook",
     iconUrl: facebook,
-    url: "#",
+    url: "https://www.facebook.com/ahmedOsman.dev",
   },
 ];
